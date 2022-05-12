@@ -57,8 +57,7 @@
 ```
 
 ## Errors and questions
-if you run into any errors, please contact me as soon as possible by phone (919)-434-3444 (can also leave voicemail or text)
-or by email nsdonaldwebmail@gmail.com, and I will try to help or rewrite my code.
+if you run into any errors, please contact me as soon as possible by phone or by email, and I will try to help or rewrite my code.
 
 
 
