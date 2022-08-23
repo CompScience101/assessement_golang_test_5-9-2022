@@ -33,6 +33,7 @@
 # URL: api/health
 # Method: GET  
 # HTTP/1.1
+
 # Response sample
 # code: 200
 # content: {running: "true"}
